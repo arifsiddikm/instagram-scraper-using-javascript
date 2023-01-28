@@ -7,7 +7,7 @@
 - Setting index.js to Set your IG Username
 - Run Project > `npm run start`
 - Waiting and you will get log data on your console 
-- Enjoy!  
+- Enjoy!   
 
 ---
 
